@@ -5,7 +5,7 @@
 <div>
   <a href="https://github.com/nathalisr">
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=nathalisr&count_private=true&include_all_commits=false&show_icons=true&theme=dracula&show_owner=true"/>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/wakatime?username=nathalisr&layout=compact&theme=dracula&count_private=true"/>
+    <img height="80em" src="https://github-readme-stats.vercel.app/api/wakatime?username=nathalisr&layout=compact&theme=dracula&count_private=true"/>
   </a>
 </div>
 
