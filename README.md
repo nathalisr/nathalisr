@@ -3,8 +3,8 @@
 <img src="https://komarev.com/ghpvc/?username=nathalisr&color=green" alt="nathalisr" /> 
 <div>
   <a href="https://github.com/nathalisr">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nathalisr&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalisr&layout=compact&langs_count=3&theme=dracula&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=nathalisr&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalisr&layout=compact&langs_count=3&theme=dracula&count_private=true"/>
 </div>
 
 <div style="display: inline_block"><br>
