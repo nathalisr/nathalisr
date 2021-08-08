@@ -2,8 +2,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=nathalisr&color=green" alt="nathalisr" /> 
 
-🔭 I’m currently working on SmartAgri company.
-🌱 I'm currently learning to use AWS services.
+- 🔭 I’m currently working on SmartAgri company.
+- 🌱 I'm currently learning to use AWS services.
 
 I like to build things with Python, Docker, SQL databases and modern backend APIs.
 
