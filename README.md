@@ -2,6 +2,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=nathalisr&color=green" alt="nathalisr" /> 
 
+🔭 I’m currently working on SmartAgri company.
+🌱 I'm currently learning to use AWS services.
+
+I like to build things with Python, Docker, SQL databases and modern backend APIs.
+
 <div>
   <a href="https://github.com/nathalisr">
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=nathalisr&count_private=true&include_all_commits=false&show_icons=true&theme=dracula&show_owner=true"/>
@@ -25,8 +30,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on SmartAgri company.
+- 🌱 I'm currently learning to use AWS services.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
