@@ -1,10 +1,12 @@
 ### Hi there, I'm @nathalisr (Nathali Ribeiro) 👋
 
 <img src="https://komarev.com/ghpvc/?username=nathalisr&color=green" alt="nathalisr" /> 
+
 <div>
   <a href="https://github.com/nathalisr">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=nathalisr&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalisr&layout=compact&langs_count=3&theme=dracula&count_private=true"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=nathalisr&count_private=true&include_all_commits=false&show_icons=true&theme=dracula&show_owner=true"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/wakatime?username=nathalisr&layout=compact&theme=dracula&count_private=true"/>
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
