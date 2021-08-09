@@ -7,17 +7,16 @@
 
 I like to build things with Python, Docker, SQL databases and modern backend APIs.
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
 <div>
   <a href="https://github.com/nathalisr">
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=nathalisr&count_private=true&include_all_commits=false&show_icons=true&theme=dracula&show_owner=true"/>
     <img height="80em" src="https://github-readme-stats.vercel.app/api/wakatime?username=nathalisr&theme=dracula"/>
   </a>
+</div>
+
+<div>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 
 <div style="display: inline_block"><br>
