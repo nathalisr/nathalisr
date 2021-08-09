@@ -16,6 +16,9 @@ I like to build things with Python, Docker, SQL databases and modern backend API
 
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
