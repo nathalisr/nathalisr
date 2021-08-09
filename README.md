@@ -11,16 +11,12 @@ I like to build things with Python, Docker, SQL databases and modern backend API
   <a href="https://github.com/nathalisr">
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=nathalisr&count_private=true&include_all_commits=false&show_icons=true&theme=dracula&show_owner=true"/>
     <img height="80em" src="https://github-readme-stats.vercel.app/api/wakatime?username=nathalisr&theme=dracula"/>
+    <img src="https://github.com/nathalisr/nathalisr/blob/main/images/stat.svg" alt="nathalisr WakaTime Activity"/>
   </a>
 </div>
 
-
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
-
 
 <div style="display: inline_block"><br>
   
