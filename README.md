@@ -1,36 +1,45 @@
-### Hi there, I'm @nathalisr (Nathali Ribeiro) 👋
+## Hi there, I'm @nathalisr (Nathali Ribeiro) 👋 <img src="https://komarev.com/ghpvc/?username=nathalisr&color=green" alt="nathalisr" /> 
 
-<img src="https://komarev.com/ghpvc/?username=nathalisr&color=green" alt="nathalisr" /> 
 
-- 🔭 I’m currently working on SmartAgri company.
+- ⚡ I'm Electrical Engineering.
+- 🔭 I’m currently working for an precision agriculture company.
+- 👨‍💻 I like to build things with Python, Docker, SQL databases and modern backend APIs.
 - 🌱 I'm currently learning to use AWS services.
+- 😄 Pronouns: She/Her
 
-I like to build things with Python, Docker, SQL databases and modern backend APIs.
 
-<div>
-  <a href="https://github.com/nathalisr">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=nathalisr&count_private=true&include_all_commits=false&show_icons=true&theme=dracula&show_owner=true"/>
-    <img height="80em" src="https://github-readme-stats.vercel.app/api/wakatime?username=nathalisr&theme=dracula"/>
-    <img src="https://github.com/nathalisr/nathalisr/blob/main/images/stat.svg" alt="nathalisr WakaTime Activity"/>
-  </a>
-</div>
+
+### 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nathalisr&count_private=true&theme=dracula"/></p>
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/nathalisr">
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nathalisr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show_owner=true"/>
+  <img height="110em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nathalisr&layout=compact&langs_count=8&theme=dracula"/>
+<!--   <img src="https://github.com/nathalisr/nathalisr/blob/main/images/stat.svg" alt="nathalisr WakaTime Activity"/> -->
+</a>
+</p>
 
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="archlinux" height="30" width="auto" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-  <img align="center" alt="Python" height="30" width="auto" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="flask" height="30" width="auto" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img align="center" alt="sqlite" height="30" width="auto" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img align="center" alt="postgress" height="30" width="auto" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="javascript" height="30" width="auto" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <!--img align="center" alt="aws" height="30" width="auto" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"><<!--
-</div>
 
 <!--
 **nathalisr/nathalisr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
