@@ -1,7 +1,7 @@
 ## Hi there, I'm @nathalisr (Nathali Ribeiro) 👋 <img src="https://komarev.com/ghpvc/?username=nathalisr&color=green" alt="nathalisr" /> 
 
 
-- ⚡ I'm Electrical Engineering.
+- ⚡ I'm Electrical Engineer.
 - 🔭 I’m currently working for an precision agriculture company.
 - 👨‍💻 I like to build things with Python, Docker, SQL databases and modern backend APIs.
 - 🌱 I'm currently learning to use AWS services.
