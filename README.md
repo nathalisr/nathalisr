@@ -9,8 +9,15 @@
 
 
 
-### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nathalisr&count_private=true&theme=dracula"/></p>
+### ✨ GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/nathalisr">
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nathalisr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show_owner=true"/>
+  <!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nathalisr&layout=compact&langs_count=8&theme=dracula"/> -->
+  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=nathalisr&count_private=true&theme=dracula"/> 
+</a>
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -25,14 +32,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;WakaTime Activity
 
 <p align="center">
-<a href="https://github.com/nathalisr">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nathalisr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show_owner=true"/>
-  <!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nathalisr&layout=compact&langs_count=8&theme=dracula"/> -->
   <img src="https://github.com/nathalisr/nathalisr/blob/main/images/stat.svg" alt="nathalisr WakaTime Activity"/>
-</a>
 </p>
 
 <!--START_SECTION:waka-->
