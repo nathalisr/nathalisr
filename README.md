@@ -39,6 +39,15 @@
 </p>
 
 <!--START_SECTION:waka-->
+```text
+Week: 04 August, 2021 - 10 August, 2021
+
+Python       3 hrs 32 mins   ████████▓░░░░░░░░░░░░░░░░   34.14 % 
+JavaScript   1 hr 53 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.17 % 
+HTML         1 hr 49 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.57 % 
+CSS          1 hr 24 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Other        59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+```
 <!--END_SECTION:waka-->
 
 <!--
