@@ -37,7 +37,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 04 August, 2021 - 10 August, 2021
+
+Python   2 hrs 9 mins    ███████████████▒░░░░░░░░░   61.22 % 
+Other    41 mins         █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+Text     14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+YAML     10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Docker   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 ```
 <!--END_SECTION:waka-->
 
