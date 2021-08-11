@@ -1,18 +1,16 @@
-name: WakaTime status update 
+name: Waka Readme
 
 on:
+  workflow_dispatch:
   schedule:
-    # Runs at 12 am  '0 0 * * *'  UTC
-    - cron: '1 0 * * *'
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
-    name: Update the WakaTime Stat
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: nathalisr/Profile-Readme-WakaTime@master
+      - uses: nathalisr/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ github.token }}
-          BRANCH: "main"
-          COMMIT_MSG: "Automated Coding Activity Update :alien:"
