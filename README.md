@@ -31,14 +31,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-<!-- ### ⚙️ &nbsp;WakaTime Activity
+### ⚙️ &nbsp;WakaTime Activity
 
 <p align="center">
   <img src="https://github.com/nathalisr/nathalisr/blob/main/images/stat.svg" alt="nathalisr WakaTime Activity"/>
 </p> -->
 
 
-<!--
+
 **nathalisr/nathalisr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
