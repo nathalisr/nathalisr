@@ -35,5 +35,5 @@
 
 <p align="center">
   <img src="https://github.com/nathalisr/nathalisr/blob/main/images/stat.svg" alt="nathalisr WakaTime Activity"/>
-</p> -->
+</p>
 
