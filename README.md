@@ -1,4 +1,4 @@
-## Hi there, I'm @nathalisr (Nathali Ribeiro) 👋
+## Hi there, I'm @nathalisr (Nathali Ribeiro) 👋 <img src="https://komarev.com/ghpvc/?username=nathalisr&color=green" alt="nathalisr" /> 
 
 
 - ⚡ I'm an Electrical Engineer.
