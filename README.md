@@ -3,8 +3,8 @@
 
 - ⚡ I'm an Electrical Engineer.
 - 🔭 I’m currently working for a precision agriculture company.
-- 👨‍💻 I like to build things with Python, Docker, SQL databases and modern backend APIs.
-- 🌱 I'm currently learning how to use AWS services.
+- 👨‍💻 I like to build things with Python, Docker, AWS, SQL databases and modern backend APIs.
+- 🌱 I'm currently learning to use Django framework.
 - 😄 Pronouns: She/Her
 
 
