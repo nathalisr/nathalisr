@@ -1,23 +1,22 @@
 ## Hi there, I'm @nathalisr (Nathali Ribeiro) 👋 <img src="https://komarev.com/ghpvc/?username=nathalisr&color=green" alt="nathalisr" /> 
 
-
 - ⚡ I'm an Electrical Engineer.
 - 🔭 I’m currently working for a precision agriculture company.
 - 👨‍💻 I like to build things with Python, Docker, AWS, SQL databases and modern backend APIs.
 - 🌱 I'm currently learning to use Django framework.
 - 😄 Pronouns: She/Her
 
-
-
 ### ✨ GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/nathalisr">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nathalisr&show_icons=true&theme=nord&include_all_commits=true&count_private=true&show_owner=true"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=nathalisr&count_private=true&theme=nord"/> 
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=nathalisr&count_private=true&theme=nord"/>
 </a>
 </p>
 
+<!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalisr&layout=compact&langs_count=7&theme=nord&include_all_commits=true&count_private=true&show_owner=true"/>
+ -->
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
