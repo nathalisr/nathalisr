@@ -10,8 +10,8 @@
 
 <p align="center">
 <a href="https://github.com/nathalisr">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nathalisr&show_icons=true&theme=nord&include_all_commits=true&count_private=true&show_owner=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalisr&langs_count=7&theme=nord&include_all_commits=true&count_private=true&show_owner=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nathalisr&show_icons=true&theme=vue&include_all_commits=true&count_private=true&show_owner=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalisr&langs_count=7&theme=vue&include_all_commits=true&count_private=true&show_owner=true"/>
 </a>
 </p>
 
