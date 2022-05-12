@@ -5,17 +5,23 @@
 - 👨‍💻 I like to build things with Python, Docker, AWS, SQL databases and modern backend APIs.
 - 🌱 I'm currently learning to use Django framework.
 - 😄 Pronouns: She/Her
+- 💬 Ask me about anything [here](https://github.com/nathalisr/nathalisr/issues)
 
 ### ✨ GitHub Analytics
 
 <p align="center">
+
+| <a href="https://github.com/nathalisr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nathalisr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/nathalisr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalisr&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+</p>
+
+<!-- 
 <a href="https://github.com/nathalisr">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nathalisr&show_icons=true&theme=vue&include_all_commits=true&count_private=true&show_owner=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalisr&langs_count=7&theme=vue&include_all_commits=true&count_private=true&show_owner=true"/>
 </a>
-</p>
-
-<!-- <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=nathalisr&count_private=true&theme=nord"/>
+<img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=nathalisr&count_private=true&theme=nord"/>
  -->
 ### 🛠 &nbsp;Tech Stack
 
