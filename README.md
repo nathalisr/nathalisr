@@ -23,7 +23,7 @@
 </a>
 <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=nathalisr&count_private=true&theme=nord"/>
  -->
-### 🛠 &nbsp;Tech Stack
+<!-- ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
@@ -34,7 +34,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+ -->
 
 ### ⚙️ &nbsp;WakaTime Activity
 
