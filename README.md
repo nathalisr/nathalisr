@@ -1,7 +1,6 @@
 ## Hi there, I'm Nathali Ribeiro 👋 <img src="https://komarev.com/ghpvc/?username=nathalisr&color=green" alt="nathalisr" /> 
 
 - ⚡ I'm an Electrical Engineer.
-- 🔭 I’m currently working for a precision agriculture company.
 - 👨‍💻 I like to build things with Python, Docker, AWS, SQL databases and modern backend APIs.
 - 🌱 I'm currently learning to use Django framework.
 - 😄 Pronouns: She/Her
